@@ -4,6 +4,10 @@
 💡 Passionate about exploring the logic behind algorithms, solving puzzles, and building things that make data meaningful.
 
 ---
+### 📄 My Resume
+[View Resume on Overleaf](https://www.overleaf.com/read/yourlinkID)
+
+
 
 ### 🔍 What I'm Learning
 - Data Science fundamentals: regression, classification, optimization
