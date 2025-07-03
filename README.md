@@ -5,7 +5,7 @@
 
 ---
 ### 📄 My Resume
-[View Resume on Overleaf](https://www.overleaf.com/read/yourlinkID)
+[View Resume on Overleaf](https://www.overleaf.com/read/brjnjdptqskh#d2492d)
 
 
 
