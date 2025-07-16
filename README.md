@@ -15,14 +15,6 @@
 - Python tools: NumPy, Scikit learn,Pandas,Seaborn,Pycaret and many more 
 - Automation & documentation: LaTeX, VS Code, GitHub workflows
 - Android Development:Kotlin,Flutter
-
----
-
-### 💻 Projects I'm Proud Of
-- 📦 [Combo-Finder](https://github.com/SukhmanpreetKaurManes/Combo-Finder) — Product range analysis logic
-- 🧠 [Subset Selection](https://github.com/SukhmanpreetKaurManes/Subset-Selection-Problem) — Smart ways to reach a target sum
-- 📊 [Marks-Adding](https://github.com/SukhmanpreetKaurManes/Miniproject---Marks-Adding) — Automating marks from CSV using Python
-
 ---
 
 ### 🚀 Tools & Technologies
