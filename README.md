@@ -27,7 +27,7 @@
 ![LightGBM](https://img.shields.io/badge/LightGBM-black?style=flat)
 ![XGBoost](https://img.shields.io/badge/XGBoost-black?style=flat)
 ![Optuna](https://img.shields.io/badge/Optuna-black?style=flat)
-d Data Science.
+
 ---
 
 ### ✨ Personal Motto
