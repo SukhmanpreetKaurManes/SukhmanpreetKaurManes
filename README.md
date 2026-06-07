@@ -10,11 +10,11 @@
 
 
 ### 🔍 What I'm Learning
-- Data Science fundamentals: regression, classification, optimization
-- Machine Learning models: Ridge, XGBoost, LightGBM and many more
-- Python tools: NumPy, Scikit learn,Pandas,Seaborn,Pycaret and many more 
-- Automation & documentation: LaTeX, VS Code, GitHub workflows
-- Android Development:Kotlin,Flutter
+- Data Science concepts 
+- Machine Learning models
+- Python tools: NumPy, Scikit learn, Pandas, Seaborn, Langchain and  more
+- Other tools: VS Code, GitHub, Git
+
 ---
 
 ### 🚀 Tools & Technologies
