@@ -5,7 +5,7 @@
 
 ---
 ### 📄 My Resume
-[View Resume on Overleaf](https://www.overleaf.com/read/brjnjdptqskh#d2492d)
+[View Resume on Overleaf](https://www.overleaf.com/project/69c6c8eaa5e46c376d25bc35)
 
 
 
