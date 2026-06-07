@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sukhmanpreet
 
 🎓 CSE undergraduate on a mission to unlock the power of data and machine learning.  
-💡 Passionate about exploring the logic behind algorithms, solving puzzles, and building things that make data meaningful.
+💡 Passionate about exploring the logic behind algorithms, solving puzzles, and building things that make data meaningful.Currently working on some impactful projects.
 
 ---
 ### 📄 My Resume
@@ -21,22 +21,13 @@
 ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
 ![C](https://img.shields.io/badge/-C-000?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C%2B%2B-000?style=flat&logo=c%2B%2B)
-![HTML](https://img.shields.io/badge/-HTML-000?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-000?style=flat&logo=css3)
 ![NumPy](https://img.shields.io/badge/-NumPy-000?style=flat&logo=numpy)
 ![Pandas](https://img.shields.io/badge/-Pandas-000?style=flat&logo=pandas)
-![LaTeX](https://img.shields.io/badge/-LaTeX-000?style=flat&logo=latex)
 ![VSCode](https://img.shields.io/badge/-VS%20Code-000?style=flat&logo=visual-studio-code)
-![Kotlin](https://img.shields.io/badge/-Kotlin-000?style=flat&logo=kotlin)
-![Flutter](https://img.shields.io/badge/-Flutter-000?style=flat&logo=flutter)
 ![LightGBM](https://img.shields.io/badge/LightGBM-black?style=flat)
 ![XGBoost](https://img.shields.io/badge/XGBoost-black?style=flat)
 ![Optuna](https://img.shields.io/badge/Optuna-black?style=flat)
----
-
-### 🌱 Currently Participating In
-- 👩‍💻 **Thapar Summer School 2025** – A great place to learn about various technologies especially related to AI/ML and 
-      and Data Science.
+d Data Science.
 ---
 
 ### ✨ Personal Motto
